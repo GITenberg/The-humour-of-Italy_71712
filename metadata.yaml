@@ -5,6 +5,9 @@ contributor:
     agent_name: Faldi, Arturo
     gutenberg_agent_id: '56345'
     url: http://www.gutenberg.org/2009/agents/56345
+covers:
+- cover_type: archival
+  image_path: 71712-h/images/cover.jpg
 creator:
   author:
     agent_name: Werner, Alice
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44331
     wikipedia: https://en.wikipedia.org/wiki/Alice_Werner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71712#The-humour-of-Italy
 gutenberg_issued: '2023-09-23'
 identifiers:
   gutenberg: '71712'
